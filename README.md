@@ -20,4 +20,4 @@ MyWeatherApp is a weather application designed and developed using Servlets and 
 
 ![Screenshot 5](/Screenshots/5.png)
 
-![Screenshot 6](/path/to/screenshot6.png)
+![Screenshot 6](/Screenshots/6.png)
